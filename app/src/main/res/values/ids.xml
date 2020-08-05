@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageView" type="id" />
+    <item name="textview1" type="id" />
+    <item name="gameOver" type="id" />
+    <item name="play_again_btn" type="id" />
+
+
+    <item name="displayScore" type="id" />
+</resources>
